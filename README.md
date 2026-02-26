@@ -1,4 +1,4 @@
-# CSC1185-Neural-Language-Modeling-Notes
+
 # CSC1185 — Neural Language Modeling
 ### Dublin City University (DCU)
 
@@ -6,7 +6,7 @@
 
 ## ⚠️ Disclaimer
 
-> **This material is AI-generated and is intended for reference and revision purposes only.**
+> **This material is intended for reference and revision purposes only.**
 > It should NOT be treated as a substitute for official lecture notes, textbooks, or course material provided by the module team.
 > Always cross-reference with the official course content on Loop.
 
